@@ -1,7 +1,7 @@
 # data
 A repository of all Coding da Vinci extracted metadata for further editing and manipulation
 
-## raw data
+## raw
 | filename | description |
 | --- | --- |
 | dataset-thumbs.csv | all dataset thumbnails |
