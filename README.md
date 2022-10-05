@@ -1,5 +1,5 @@
 # data
-A repository of all Coding da Vinci extracted metadata for further editing and manipulation
+A repository of all Coding da Vinci extracted metadata for further editing and use
 
 ## raw
 | filename | description |
